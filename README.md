@@ -2,6 +2,7 @@
 Genetic Programming has been used in a variety of fields to solve difficult problems and produce human competitive results. In the field of mathematics, it has been used to solve problems such as symbolic regression, the discovery of trigonometry identities, and sequence induction, just to name a few (Koza 1992).
 
 In this mini project, been written a program that can get any formulas using GP. For example, you have to create the following statement: 
+
 X^2 +2X + 1
 
 This equation can be represented by the following three:
